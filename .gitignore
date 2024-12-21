@@ -1,0 +1,44 @@
+# Maven target directory
+/target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+.nbm/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*~
+
+# Other files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# API keys or sensitive configuration files
+*.properties
+*.env
